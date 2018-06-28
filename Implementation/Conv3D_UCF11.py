@@ -14,7 +14,7 @@ from cntk.debugging import set_computation_network_trace_level
 
 # Paths relative to current python file.
 abs_path   = os.path.dirname(os.path.abspath(__file__))
-data_path  = os.path.join(abs_path, "..", "..", "DataSets", "UCF11")
+data_path  = os.path.join(abs_path, "..", "VideoDataset", "DataSets", "UCF11 and OUR OWN DATASET")
 model_path = os.path.join(abs_path, "Models")
 
 # Define the reader for both training and evaluation action.
