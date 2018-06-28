@@ -1,4 +1,4 @@
-#How to run the project on AWS
+# How to run the project on AWS
 
 1. Launch instance from the AWS Deep Learning AMI, tested on (Ubuntu) Version 10.0 (ami-958d8bec in eu-west-1) 
 2. Select a GPU instance type such as p2.xlarge, remaining launch wizard preferences can remain unchanged
